@@ -1,0 +1,66 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+.nav li{
+	display: inline-block;
+	padding: 2%;
+}
+a:hover { 
+	background: #1A2952;
+	color: white; 
+}
+.studio{
+	background-image: url("../img/dance_1.jpg");
+	height: 410px;	
+}
+.pt-2{
+	padding-top: 2%;
+}
+.cinco{
+	height: 480px;
+	background-image: url("../img/shoes_!.jpg")
+}
+#contacto input{
+	display: block;
+}
+.input1{
+	height: 40px;
+	width: 500px;
+	margin-bottom: 3%;	
+	background-size: 30px;
+	background-repeat: no-repeat;
+	padding: 3% 10%;
+}
+#contacto textarea{
+	width: 500px;
+	height: 120px;
+	padding: 3% 10%;
+}
+#contacto h1{
+	padding: 10% 0 5%;
+}
+.name {
+	background-image:url("http://rexkirby.com/kirbyandson/images/name.svg");
+	background-position: 10px 5px; 
+}
+.email{
+	background-image:url("http://rexkirby.com/kirbyandson/images/email.svg");
+	background-position: 10px 5px;
+}
+.mensaje{
+	background-image: url("http://rexkirby.com/kirbyandson/images/comment.svg");
+	background-position: 10px 5px;
+	background-size: 30px;
+	background-repeat: no-repeat;
+}
+#contacto .enviar{
+	background-color: #1A2952;
+	height: 60px;
+	width: 500px;
+	border-radius: 2px;
+	border: 0;
+	margin:10px 0;
+}
+.piepag{
+	height: 50px;
+	background-color:#1A2952;
+	padding: 2% 3%;
+}

@@ -1,0 +1,39 @@
+
+/* Inserta tu codigo aqui */
+.s-nosotros{
+	height: 350px;
+	background-image: url("../img/dance_7.jpg")
+}
+.s-nosotros .container-fluid{
+	padding: 8% ;
+}
+.box-text{
+	background-color: rgba(0, 0, 0, 0.4);
+	height: 150px;
+	width: 500px;	
+	margin:auto;
+}
+.pilar{
+	height: 280px;
+	background-image: url("../img/cubes.png")
+}
+.pilares .col-4{
+	padding: 5%;
+}
+.pilares .col-4 h2{
+	border-bottom: 1px solid black;
+	padding-bottom: 10%;
+}
+.pilares .col-4 p{
+	padding-top: 10%;
+}
+.instructores .col-3 img{
+	height: 250px;
+	width: 200px;
+}
+.otra-frase{
+	font-size: 2.5em;
+	background-image: url("../img/cubes.png");
+	height: 250px;
+	padding: 8% 0;
+}

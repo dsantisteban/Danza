@@ -1,0 +1,17 @@
+/* Inserta tu codigo aqui */
+.oferta .col-4 img{
+	width:300px;
+	height: 350px;
+}	
+.oferta .col-4{
+	position: relative;
+}
+.texto{
+	position: absolute;
+	background-color: rgba(0,0,0,0.5);
+	top:40%;
+	left: 7.5%;
+	height: 25%;
+	width: 90%;
+
+}

@@ -1,0 +1,80 @@
+.nav li{
+	display: inline-block;
+	padding: 2%;
+}
+.studio{
+	background-image: url("../img/dance_1.jpg");
+	height: 410px;	
+}
+.pt-2{
+	padding-top: 2%;
+}
+.inscribite{
+	background: #030E1E;
+	margin:10% 0;
+	padding: 5%;
+	border:0;
+}
+.studio .container h1{
+	font-size: 4em;
+	color: #C2C6C7;
+}
+.decoration1{
+	width: 120px;
+}
+.Juilliart{
+	padding: 5% 11%;
+}
+.Juilliart p {
+	font-size: 1.5em;
+}
+.ofertas{
+	background:url("../img/textura_2.jpg");
+}
+.clases{
+	background-color: #192952;
+	border: 0;
+	border-radius: 5px;
+	width: 250px;
+	height: 50px;
+}
+.instructor {
+	height: 305px;
+	position: relative;
+}
+.instructor .col-6{
+	border: 1px solid #182B52;
+	height: 305px;
+}
+.instructor1{
+	background-image: url("../img/instructor_4.jpg");
+}
+.instructor2{
+	background-image: url("../img/profesor_9.jpg");	
+}
+.Nuestros{
+	position: absolute;
+	height: 70px;
+	width: 500px;
+	background-color:#1A2952;
+	top:235px;
+	right: 30%;
+	border:0;
+}
+.tres{
+	background-image: url("../img/textura_2.jpg");
+}
+.tres .definicion p{
+	font-size: 2em;
+	padding:10%;	
+}
+.cuatro{
+	height: 450px;
+	background: #1A2952;
+	padding: 7% 5%;
+}
+.visitanos :nth-child(2){
+	font-size: 1.5em;
+	padding: 7% 0 0;
+	font-weight: bold;
+}
